@@ -1,0 +1,62 @@
+//Make UMLLLLLLL!!!!!!!
+
+offender 4 can not be defended!
+
+if the player rolls a number that is not apart of the defense there is no defense from the other player.
+
+The people attacking and defending change
+
+you can use a flag to determine which is attacking, true is player 1, and false is player 2.
+
+you use if statements to control the spells and defense:
+    -use what the chart says for each ting:
+
+-Make menus with console pictures.
+-Make sure you comment the librarys and other things on why your using it and how it helps you.
+
+//Just simulate it
+//You can clear console
+//You can add methods if you need them
+
+
+Main:
+-Player p1 = new player();
+-Player p2 = new player():
+-currentPlayer = True;
+//True is p1 and p2 is false
+
+while loop(player1.heath > 0 and player2.heath > 0):
+    Please enter the name of the defender and attacker players:
+    p1.setName(getName())
+    p2.setName(getName())
+    p1.setHeath()
+    p2.setHeath()
+
+    //If the currentPlayer is true meaning player 1 than do offenser as p1 and defender as p2:
+    if currentPlayer:
+        p1.offenser
+        p2.defender
+        currentPlayer = False
+
+    //Else the current is false meaning player 2 than do offenser as p2 and defender as p1
+    else:
+        p1.defender
+        p2.offenser
+        currentPlayer = True
+
+    print out the defense for p1 or p2 and the offense for p1 or p2
+
+#Example:
+
+p1.set_Offense_PLayer_Health(x, y);
+p2.set_Defense_Player_Health(y, x);
+System.out.println(p1.getName() + "your health is now "+p1.getHealth);
+
+Ask about roll 5 for protego!
+and ask about 4 and 6
+
+#Other Notes:
+
+Abstract is ghost a temp!
+
+You can have same method or varable names for different classes!
